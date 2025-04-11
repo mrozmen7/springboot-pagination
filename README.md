@@ -199,6 +199,26 @@ Zum Bauen und Ausführen dieser Anwendung benötigen Sie:
 - ✨ [**Lombok**](https://projectlombok.org/)
 - ✨ [**JPA**](https://projectlombok.org/) 
 
+
+___
+## 📚 Quellen / Referenzen
+
+Während der Entwicklung dieses Projekts wurden folgende Ressourcen zur Unterstützung herangezogen:
+
+
+- https://www.udemy.com/course/sifirdan-ileri-seviye-spring-kursu/learn/lecture/46192207#overview
+- https://ardijorganxhi.medium.com/implement-pagination-at-your-spring-boot-application-a540270b5f60
+
+1. [Spring Boot Reference Documentation – Pagination mit Spring Data JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.paging-and-sorting)  
+   *Offizielle Dokumentation zur Implementierung von Paging- und Sortierfunktionen mit Spring Data.*
+
+2. [Baeldung – Spring Data Pagination und Sorting](https://www.baeldung.com/spring-data-jpa-pagination-sorting)  
+   *Ein praxisorientierter Leitfaden zur Anwendung von Pagination mit Beispielcode.*
+
+3. [Spring Boot REST API Best Practices – Pagination & Filterung](https://www.logicbig.com/tutorials/spring-framework/spring-data/pagination-sorting.html)  
+   *Eine strukturierte Einführung in REST-API Design mit Seitenverwaltung und Sortierung.*
+
+
 ___ 
 > ⚠️ **Hinweis für Leser:innen:**
 
